@@ -6,4 +6,4 @@
   <li>Full Page</li>
   <li>Figma</li>
 </ul>
-<h4>Live Link: </h4>
+<h4>Live Link: https://raselshahid.github.io/Landing-Page_figma/</h4>
